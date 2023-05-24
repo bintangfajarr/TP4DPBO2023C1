@@ -17,6 +17,8 @@ Saya Muhammad Cahyana Bintang Fajar dengan nim 2102665 mengerjakan Tugas Praktik
 - untuk add, anda cukup menuju ke page members dulu, baru add new, isi kolomnya, lalu untuk perusahaan diambil dari data perusahaan yang ada di list perusahaan, jika tidak ada, add perusahaan dulu
 - untuk delete, cukup klik delete di data yang ingin anda delete, data akan otomatis terhapus
 - untuk edit, cukup klik edit saja di data yang ingin anda edit, maka akan menuju ke menu edit data sesuai yang anda klik
-https://github.com/bintangfajarr/TP4DPBO2023C1/assets/95915887/9991fc78-e91f-4278-84da-8c593d658432
+## Dokumentasi 
 
+
+https://github.com/bintangfajarr/TP4DPBO2023C1/assets/95915887/7fab6a92-25cd-4c90-9ee3-16a2ce3b3a0a
 
